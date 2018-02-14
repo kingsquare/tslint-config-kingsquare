@@ -8,7 +8,7 @@ module.exports = {
         "global-require": [1],
         "comma-dangle": [0],
         "no-param-reassign": [0], // e.g. reduce array to object
-        "no-underscore-dangle": [0],
+        "import-name": [0], // import React from 'react' is fine...
         "default-case": [0], // no default case in a switch is fine...
         "max-len": ["error", 120, {
             "ignoreTemplateLiterals": true,
