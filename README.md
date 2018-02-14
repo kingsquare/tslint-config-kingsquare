@@ -5,7 +5,7 @@ This is the basic tslint config used by kingsquare.
 To install and use do the following:
 
 ```
-yarn add --dev tslint tslint-config-kingsquare
+yarn add --dev tslint-config-kingsquare
 ```
 also create a tslint.json:
 
