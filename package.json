@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-kingsquare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "Kingsquare BV",
   "license": "ISC",
   "dependencies": {
-    "tslint": "^5.9.1",
-    "tslint-config-airbnb": "^5.6.0",
-    "typescript": "^2.7.1"
+    "tslint-config-airbnb": "^5.11.0",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.2"
   }
 }
