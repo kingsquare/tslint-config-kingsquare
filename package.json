@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-kingsquare",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "prettier": "^1.14.3"
   },
   "dependencies": {
+    "tslint-config-prettier": "^1.15.0",
     "tslint-react": "^3.6.0"
   }
 }
