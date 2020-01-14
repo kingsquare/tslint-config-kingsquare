@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This package is deprecated. Please use eslint / eslint-config-kingsquare
+
 # tslint-config-kingsquare
 
 This is the basic tslint config used by kingsquare.
